@@ -1,0 +1,118 @@
+
+
+Tips for learning.
+
+Read the manual and change it in order to understand the concept.
+Having a running exemple to project. No always useful but it's fun. 
+
+
+Running my default code in node (console). It's less taxing on the system. 
+
+
+JAVASCRIPT
+
+		const by default
+		let in loops
+
+
+You can apply node as runtime engine within the VSC.
+Any env is apply by command console. 
+
+	For contactenate variable we use `	`  as string bracket. 
+	eg:
+									let str1 = "Junior";
+									let str2 = "Kat";
+
+									console.log(`My name is ${str1} ${str2} `);
+
+Node.js REPL
+Node.js has a built-in read-eval-print loop (REPL) mode that's useful for quick code evaluation and experimentation. REPL mode is an interactive console environment where you can enter JavaScript code and have Node.js interpret and run the code and then print the output.
+
+The Node.js REPL mode works as follows:
+
+Read: Reads and parses the user's JavaScript code input (or shows an error if the code is invalid).
+Eval: Evaluates the entered JavaScript code.
+Print: Prints the computed results.
+Loop: Loops and waits for the user to enter a new command (or exits if the user enters ctrl-c twice).
+
+
+		Checking Type
+
+				typeof operator
+				Returns a string of the data type primitive
+				instanceof operator
+				Returns a Boolean of if a value the data type
+
+	Converting between numbers and strings
+
+		parseInt() and parseFloat()
+		Convert numerical strings to numbers
+		Adding non-numerical characters can have unintended results
+		parseFloat() is for floating point numbers, numbers with decimal points
+
+		toString()
+		Convert numbers to numerical strings
+
+
+												Errors
+
+		unintended behavior in JavaScript
+
+		Exception
+		Interruption in the intended execution of code
+
+		Error
+		Unintended interrruption in execution of code, typically show up as exceptions Syntax errors are a type of exception that occurs when incorrect syntax is used
+
+		Throwing an Exception
+		Sending a message that something has gone wrong in the intended execution of code, this can be thrown by JavaScript or by the developer with the throw keyword 
+
+
+		Handling Errors in JavaScript
+
+		Uncaught exceptions
+		Exceptions that have been thrown when code has no guidance to handle the interruption 
+		Users my see unhelpful obscure messages, or none exist
+		Catch exceptions with try .. catch .. finally
+
+		try
+		Block of code that may trow an exception 
+
+		Catch
+		Block of code that will run if an exception is thrown
+
+		finally
+		Optional enclosed part of code that will run after the try block or after the catch block 
+		Runs every time, even if an exception is not thrown 
+Switch 
+	case 
+	Use for  testing cases. 
+
+
+Best practices
+
+Always use ===, !== for checking. //Boolean response 
+
+
+				Selecting the right loop
+				while loops 
+				Calling a function which returns false or null when completed
+				for loops
+				Looping a known number of times 
+				forof ...
+
+				
+PYTHON
+
+	main keyword
+
+		range
+		list 
+		tuple 
+		dict 
+		set (not duplicate)
+		...
+
+
+
+		
