@@ -1,0 +1,20 @@
+{
+  "name": "Dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaynandu/Dev.git"
+  },
+  "keywords": [],
+  "author": "Jay Nandu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaynandu/Dev/issues"
+  },
+  "homepage": "https://github.com/jaynandu/Dev#readme"
+}
